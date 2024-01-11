@@ -7,7 +7,7 @@ function Hearder() {
         <h2>STEP UP YOUR</h2>
         <h1><span>FITNESS</span> WITH US</h1>
         <p className='details'>
-          Welcome to <span>FitZone Vitality gym</span>.
+          Welcome to <span>FITZone Vitality GYM</span>.
           Build Your Body And Fitness With Professionnal
         Touch</p>
         <div className='header-btns'>
